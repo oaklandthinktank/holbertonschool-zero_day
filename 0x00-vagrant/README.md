@@ -1,0 +1,1 @@
+This is a demonstration of what "uname" returns, when you are using Ubuntu VM.
