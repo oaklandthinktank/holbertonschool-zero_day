@@ -1,0 +1,1 @@
+These files detail commands in vi, according to their title.
